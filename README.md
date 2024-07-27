@@ -1,3 +1,5 @@
 # odin-recipes2
 
-On this project I will make a basic webpage with some recipes
+HTML page with recipes
+
+https://sensecbc.github.io/odin-recipes2/
